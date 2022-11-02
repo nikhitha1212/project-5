@@ -1,0 +1,45 @@
+My Name is Nikhitha,
+I am having 3 Years of experience as a DevOps Engineer,
+For the last 3+ years I have been working in Sentios Systems pvt ltd Company as a DevOps Engineer. 
+In that position, I have worked on various tools like Git,GitHub, build tools like Maven, 
+Sonarqube as a source code management tool,
+Nexus is the Arftifactory repo, Jenkins is my CI server,
+Ansible as the configuration management tool,DOcker for Containerisation Deployment,
+I have basic knowledge on orchestration tool Kubernetes.
+Experience in Continuous Integration,continuous deployment
+Experience in creating Docker images and deploying Images by using container technology like Docker.
+Launching and configuring of Amazon EC2 (AWS) Cloud Servers using AMI's (Linux/Ubuntu),
+configuring the servers for specified applications.
+Experienced in AWS cloud computing services.
+
+Coming to my roles and responsibilities
+-—-------------------------------------
+--Created and Maintained Github repositories, branches and tags for multiple projects.
+--Configuring Maven scripts with Jenkins based on type of project.
+--Automating the Build process using Git and Maven
+--Configured Git with Jenkins and schedule jobs using Poll SCM option
+--Build, release and configuration management of production systems.
+--Experiecned in docker,docker swarm.
+--Good in writing docker files,docker compose files.
+--Automating deployment in docker swarm cluster using docker and jenkins.
+
+--Have Strong scripting and automation skills.
+--Have good knowledge on Windows and Linux system administration.
+
+
+●Worked on Source Control Management Git, Build Tool Maven & Continuous Integration Tool Jenkins.
+●Involved in Continuous Integration setup. Configured multiple build jobs, created up and down Stream jobs and performed plug-in installations, backup etc. using Jenkins.
+ Involved in Branching, Tagging and Merging of code delivery at required release.
+●Verify deployments logs to check for successful deployments.
+
+DevOps?
+
+1.What is GIT?  
+ GIT is a distributed version control system and source code management (SCM) system with an emphasis to handle small and large projects with speed and efficiency. 
+2.What is a repository in GIT?  
+ A Git repository contains the history of a files.
+Github
+
+sonarqube is a open source platform developed by sonarsourcefor code quality check
+   
+
